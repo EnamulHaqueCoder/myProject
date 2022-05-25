@@ -4,6 +4,3 @@ var typed = new Typed('.auto-type', {
     backSpeed: 50,
     loop: true
 })
-
-
-console.log(window);
